@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 100px;
+  height: 150px;
+  margin-right: 10px;
+}
+
+.img {
+  width: 70px;
+  margin-top: 10px;
+}
+
+.name {
+  font-weight: 500;
+  font-size: larger;
+  margin-bottom: 0;
+}
+
+.status {
+  margin-top: 5px;
+  color: red;
+}
+
+.isOnline {
+  color: green;
+}

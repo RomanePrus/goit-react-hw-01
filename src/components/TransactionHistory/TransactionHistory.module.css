@@ -1,0 +1,31 @@
+.transactionHistory {
+  border: 1px solid grey;
+  width: 500px;
+  margin: 0px auto;
+  border-collapse: collapse;
+}
+
+.columnName {
+  border-right: 1px solid grey;
+  border-bottom: 1px solid grey;
+  height: 50px;
+  background-color: rgb(13, 11, 11);
+  color: white;
+}
+
+.box {
+  height: 50px;
+  text-align: center;
+}
+
+.columnValue {
+  border: 1px solid black;
+}
+
+.first {
+  background-color: grey;
+}
+
+.second {
+  background-color: white;
+}
